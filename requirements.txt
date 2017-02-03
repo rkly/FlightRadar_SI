@@ -1,7 +1,7 @@
-json2html
-urllib2
-json
-bs4
-psycopg2
+json2html==1.1.1
+urllib2==2.7.9
+json==2.7
+BeautifulSoup==3.2.0
+psycopg2==2.7
 boto3
 os

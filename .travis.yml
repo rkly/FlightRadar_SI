@@ -12,7 +12,7 @@ python:
   - "pypy-5.3.1"
 # command to install dependencies
 install:
-  - pip instell .e
+  - pip install .e
   - pip install --upgrade setuptools
   - pip install ez_setup
   - pip install -r requirements.txt
